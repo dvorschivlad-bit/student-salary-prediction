@@ -94,5 +94,6 @@ student-salary-prediction/
 └── README.md
 ```
 ## Canva presentation:
-[presentation.pdf](https://canva.link/dws3caum1trwb7p)
+[presentation.pdf](https://canva.link/dws3caum1trwb7p)  
+---
 *Project completed as part of BCR Data Science Program (2026).*
