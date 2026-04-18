@@ -37,11 +37,11 @@ Dataset validated with **<5% deviation** across all critical metrics. The synthe
 
 ### Sources
 
-1. India Skills Report 2026 (Wheebox)
-2. National Institute of Engineering (NIE)
-3. World Journal of Economics and Business Research
+1. [India Skills Report 2026]((https://wheebox.com/assets/pdf/ISR_Report_2026.pdf))
+2. [National Institute of Engineering](https://nie.ac.in/)
+3. [World Journal of Economics and Business Research](https://upubscience.com/wjebr/article/view/1516)
 4. IJACECT Study on Placement Success
-5. RNSIT Bangalore Placement Data
+5. [RNSIT Bangalore Placement Data](https://www.rnsit.ac.in/blog/top-10-engineering-colleges-in-bangalore/)
 
 ---
 
@@ -92,6 +92,7 @@ student-salary-prediction/
 │   ├── 01_data_validation.ipynb
 │   └── 02_salary_model.ipynb
 │
-├── presentation.pdf
+├── [presentation.pdf](https://canva.link/dws3caum1trwb7p)
 └── README.md
 ```
+*Project completed as part of BCR Data Science Program (2026).*
