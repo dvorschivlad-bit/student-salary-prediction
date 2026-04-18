@@ -37,7 +37,7 @@ Dataset validated with **<5% deviation** across all critical metrics. The synthe
 
 ### Sources
 
-1. [India Skills Report 2026]((https://wheebox.com/assets/pdf/ISR_Report_2026.pdf))
+1. [India Skills Report 2026](https://wheebox.com/assets/pdf/ISR_Report_2026.pdf))
 2. [National Institute of Engineering](https://nie.ac.in/)
 3. [World Journal of Economics and Business Research](https://upubscience.com/wjebr/article/view/1516)
 4. IJACECT Study on Placement Success
