@@ -91,8 +91,8 @@ student-salary-prediction/
 ├── notebooks/
 │   ├── 01_data_validation.ipynb
 │   └── 02_salary_model.ipynb
-│
-├── [presentation.pdf](https://canva.link/dws3caum1trwb7p)
 └── README.md
 ```
+## Canva presentation:
+[presentation.pdf](https://canva.link/dws3caum1trwb7p)
 *Project completed as part of BCR Data Science Program (2026).*
