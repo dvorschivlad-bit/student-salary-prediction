@@ -11,6 +11,25 @@
 This project was completed as a **team project for the BCR Data Science Program**.
 
 ---
+ 
+## Dataset
+ 
+The dataset contains information on engineering graduates in India, used to predict salary packages based on academic and skill-based features.
+ 
+| Feature | Description |
+|---|---|
+| **Records** | ~11,000 observations |
+| **Target Variable** | Salary (Annual package in LPA — Lakhs Per Annum) |
+| **CGPA** | Academic performance (scale 1–10) |
+| **Internships** | Number of internships completed |
+| **DSA Score** | Data Structures & Algorithms skill rating |
+| **College Tier** | Institution prestige level (Tier 1, 2, or 3) |
+| **Branch** | Engineering specialization (CSE, IT, Mechanical, etc.) |
+| **Placement** | Binary status (Placed / Not Placed) |
+ 
+> **Note:** The dataset is synthetic but was validated against real-world benchmarks (India Skills Report 2026) to ensure reliability for modeling.
+ 
+---
 
 ## My Contribution: Data Validation & Feasibility
 
