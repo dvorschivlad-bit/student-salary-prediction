@@ -18,7 +18,7 @@ The dataset contains information on engineering graduates in India, used to pred
  
 | Feature | Description |
 |---|---|
-| **Records** | ~11,000 observations |
+| **Records** | ~100,000 observations × 18 columns |
 | **Target Variable** | Salary (Annual package in LPA — Lakhs Per Annum) |
 | **CGPA** | Academic performance (scale 1–10) |
 | **Internships** | Number of internships completed |
